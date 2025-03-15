@@ -1,0 +1,26 @@
+body {
+    background-image: URL('bg22.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+p {
+    display: block;
+    line-height: 20px;
+background-color:c4e3ff;
+text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #031e73;
+	background-color:c4e3ff;
+}
+
+img{
+height: 600px;
+width: 1300px;
+align: center;
+
+}
