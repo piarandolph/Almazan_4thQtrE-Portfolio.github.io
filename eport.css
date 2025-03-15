@@ -1,0 +1,29 @@
+body {
+    background-image: URL('piamasarap.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+p {
+    display: block;
+    line-height: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #031e73;
+	background-color:c4e3ff;
+}
+
+h2 {
+	text-align: left;
+    font-size: 50px;
+    color: #05294b;
+	
+}
+
+
+span {
+    color: #ff5415;
+}
